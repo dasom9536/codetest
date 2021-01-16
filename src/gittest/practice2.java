@@ -1,8 +1,8 @@
 package gittest;
 
-public class practice {
+public class practice2 {
 	public static void main(String[] args) {
-		System.out.println("I like tory kelly music");
+		System.out.println("Hello! This is Github Practicing!");
 		// Github Practice!
 	}
 
